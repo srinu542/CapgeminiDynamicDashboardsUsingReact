@@ -28,11 +28,12 @@
 [http://127.0.0.1:8000/login](http://127.0.0.1:8000/login)
 
 #### Dashboard
-* Dashboard only accessed by admin.
 [http://127.0.0.1:8000/dashboard](http://127.0.0.1:8000/dashboard)
+* Dashboard only accessed by admin.
 
 #### Add user
-[http://localhost:8000/create_student](http://localhost:8000/create_student)
+[http://127.0.0.1:8000/create_student](http://127.0.0.1:8000/create_student)
+* Add few user to check the results of filtering and view graphs.
 
 #### Homepage
 [http://127.0.0.1:8000/](http://127.0.0.1:8000/register)
