@@ -6,7 +6,7 @@
 * Composer: 2.0.14 for laravel installation.
 * Better install composer and npm globally
 * Xampp for PHP and MYSQLI server.
-* Dowload the source code above.
+* Dowload the source code above and extract open in terminal.
 
 #### Project configuration
 * Open xamp start Apache and MYSQLi server.
