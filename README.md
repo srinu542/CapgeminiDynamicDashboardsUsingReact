@@ -5,13 +5,14 @@
 * NPM 6.14.12 to download reactjs and packages.
 * Composer: 2.0.14 for laravel installation.
 * Xampp for PHP and MYSQLI server.
-* Dowload the source code above
+* Dowload the source code above.
 
 #### Project configuration
-* Open xamp start Apache and MYSQLi server
-* Open it your text editor
-* Path of terminal must be project path
-* #### Run below commands in terminal
+* Open xamp start Apache and MYSQLi server.
+* Open terminal.
+* Path of terminal must be project directory.
+
+#### Run below commands in terminal
 * ``` composer install ```
 * ``` npm install ```
 * ``` composer require laravel/passport ```
@@ -20,3 +21,18 @@
 * Run ``` php artisan serve ```
 * After server starts open:  [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
+#### Create admin 
+[http://127.0.0.1:8000/register](http://127.0.0.1:8000/register)
+
+#### Login as admin 
+[http://127.0.0.1:8000/login](http://127.0.0.1:8000/login)
+
+#### Dashboard
+* Dashboard only accessed by admin.
+[http://127.0.0.1:8000/dashboard](http://127.0.0.1:8000/dashboard)
+
+#### Add user
+[http://localhost:8000/create_student](http://localhost:8000/create_student)
+
+#### Homepage
+[http://127.0.0.1:8000/](http://127.0.0.1:8000/register)
