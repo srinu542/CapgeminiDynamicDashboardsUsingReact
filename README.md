@@ -12,6 +12,9 @@
 * Open xamp start Apache and MYSQLi server.
 * Open terminal.
 * Path of terminal must be project directory.
+* Download ```students.sql``` 
+* Create ```students``` database in mysqli database.
+* import ```students.sql``` into database.
 
 #### Run below commands in terminal
 * ``` composer install ```
