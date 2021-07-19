@@ -4,6 +4,7 @@
 ### Software Required in your system:
 * NPM 6.14.12 to download reactjs and packages.
 * Composer: 2.0.14 for laravel installation.
+* Better install composer and npm globally
 * Xampp for PHP and MYSQLI server.
 * Dowload the source code above.
 
