@@ -19,7 +19,7 @@
 * ``` php artisan migrate ```
 * ``` php artisan passport:install ```
 * Run ``` php artisan serve ```
-* After server starts open:  [http://127.0.0.1:8000](http://127.0.0.1:8000)
+* Open after server started:  [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 #### Create admin [http://127.0.0.1:8000/register](http://127.0.0.1:8000/register)
 
