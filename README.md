@@ -21,18 +21,14 @@
 * Run ``` php artisan serve ```
 * After server starts open:  [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
-#### Create admin 
-[http://127.0.0.1:8000/register](http://127.0.0.1:8000/register)
+#### Create admin [http://127.0.0.1:8000/register](http://127.0.0.1:8000/register)
 
-#### Login as admin 
-[http://127.0.0.1:8000/login](http://127.0.0.1:8000/login)
+#### Login as admin [http://127.0.0.1:8000/login](http://127.0.0.1:8000/login)
 
-#### Dashboard
-[http://127.0.0.1:8000/dashboard](http://127.0.0.1:8000/dashboard)
+#### Dashboard [http://127.0.0.1:8000/dashboard](http://127.0.0.1:8000/dashboard)
 * Dashboard only accessed by admin.
 
-#### Add user
-[http://127.0.0.1:8000/create_student](http://127.0.0.1:8000/create_student)
+#### Add user [http://127.0.0.1:8000/create_student](http://127.0.0.1:8000/create_student)
 * Add few user to check the results of filtering and view graphs.
 
 #### Homepage
